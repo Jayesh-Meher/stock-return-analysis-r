@@ -16,3 +16,7 @@ This project analyses Apple stock returns using R.
 ## Insights:
 - Stock returns show volatility
 - Returns fluctuate over time
+
+## Output:
+
+![Plot](plot.png)
